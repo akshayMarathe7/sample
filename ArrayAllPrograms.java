@@ -3,6 +3,7 @@ package practicePrograms;
 public class ArrayAllPrograms {
 	
 // push the code	
+// pull the code	
 
 	public static void main(String[] args) {
 
